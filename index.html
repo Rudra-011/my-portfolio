@@ -340,6 +340,7 @@
         .stat-card:hover {
             transform: translateY(-5px);
             border-color: var(--primary-blue);
+            box-shadow: 0 40px 60px rgba(47, 30, 197, 0.1);
         }
 
         .stat-number {
@@ -371,6 +372,7 @@
         .skill-category:hover {
             transform: translateY(-5px);
             border-color: var(--primary-blue);
+            box-shadow: 0 20px 40px rgba(63, 44, 236, 0.1);
         }
 
         .skill-category h3 {
@@ -411,13 +413,15 @@
             background: var(--bg-secondary);
             border-radius: 15px;
             overflow: hidden;
-            border: 1px solid var(--border-color);
+            border: 1px solid var(--border-color); 
+            /* border: 1px solid var(--primary-blue); */
             transition: all 0.3s ease;
         }
 
         .project-card:hover {
             transform: translateY(-10px);
-            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            box-shadow: 0 20px 40px rgba(63, 44, 236, 0.1);
+            border: 1px solid var(--primary-blue);
         }
 
         .project-header {
@@ -446,7 +450,7 @@
 
         .tech-tag {
             background: var(--gradient);
-            color: white;
+            color: rgb(248, 241, 241);
             padding: 0.3rem 0.8rem;
             border-radius: 15px;
             font-size: 0.8rem;
@@ -471,6 +475,7 @@
 
         .project-link:hover {
             transform: translateX(5px);
+            color: var(--primary-purple); 
         }
 
         /* Contact Section */
@@ -501,7 +506,7 @@
         .contact-item:hover {
             border-color: var(--primary-blue);
             transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            box-shadow: 0 5px 15px rgba(60, 114, 206, 0.1);
         }
 
         .contact-item i {
