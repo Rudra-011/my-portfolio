@@ -5,7 +5,7 @@ This is a **personal portfolio website** showcasing my work, skills, projects, a
 
 The website is **fully responsive**, modern, and interactive, with **smooth animations, dark mode, and dynamic sections** to enhance user experience.
 
-**Live Demo:** [Click Here](https://your-live-portfolio-link.com)  
+**Live Demo:** [Click Here](https://rudra-01.netlify.app/)  
 **Repository Link:** [GitHub](https://github.com/your-github-link)
 
 ---
