@@ -1,4 +1,4 @@
-# 🖥️ Portfolio Website – Rudra Bhuyan
+# 🖥️ Portfolio Website – Rudra bhuyan
 ---
 ## 📄 Description
 This is a **personal portfolio website** showcasing my work, skills, projects, and achievements. It is designed to provide a professional online presence, allowing visitors and potential employers/clients to explore my experience, technical expertise, and portfolio projects.  
